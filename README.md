@@ -1,5 +1,5 @@
 # Flappy_Bird
-#Language and Graphics library
+## Language and Graphics library
 c++ and raylib
 ## Compilation Instructions
 
