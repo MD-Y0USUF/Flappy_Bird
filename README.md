@@ -9,6 +9,6 @@ To compile the game from source, follow these steps:
 2. Navigate to the project directory: ```cd Flappy_Bird```
 3. compile using this command: ```g++ main.cpp -o flappyBird -lraylib -lGL -lm -lpthread -ldl -lrt -lX11```
 4. under the ```Flappy_Bird``` directory ,you will se a file name ```flappyBird``` ,
-##double click on that.
-##enjoy......
+## double click on that.
+## enjoy......
 
